@@ -36,8 +36,7 @@ Detailed project description can be found [here](http://www.cs.cornell.edu/cours
 
 ### Results
 
-Final Output Video
-https://github.com/andrewbpark73/Computer-Vision-P5-NeRF/blob/main/lego_spiral_001000_rgb.mp4
+[Final Output](https://github.com/andrewbpark73/Computer-Vision-P5-NeRF/blob/main/lego_spiral_001000_rgb.mp4)
 
 For detailed information about the process and results of this project, please refer to the following Jupyter notebooks:
 
