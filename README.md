@@ -36,12 +36,11 @@ Detailed project description can be found [here](http://www.cs.cornell.edu/cours
 
 ### Results
 
-<video width="640" height="480" controls>
-  <source src="lego_spiral_001000_rgb.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Final Output Video
+https://github.com/andrewbpark73/Computer-Vision-P5-NeRF/blob/main/lego_spiral_001000_rgb.mp4
 
 For detailed information about the process and results of this project, please refer to the following Jupyter notebooks:
 
 The code implementation for `NeRF` is located in the [CS5670_Project5_NeRF.ipynb](CS5670_Project5_NeRF.ipynb) file and
-`MNIST` in the [CS5670_Project5_MNISTChallenge.ipynb](./CS5670_Project5_MNISTChallenge.ipynb) file
+`MNIST` in the [CS5670_Project5_MNISTChallenge.ipynb](./CS5670_Project5_MNISTChallenge.ipynb) file.
+
